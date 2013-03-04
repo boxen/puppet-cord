@@ -1,4 +1,5 @@
 # CoRD
+[CoRD](http://cord.sourceforge.net/) is a Windows Remote Desktop Client for the Mac.
 
 ## Usage
 
