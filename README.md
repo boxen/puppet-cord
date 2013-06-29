@@ -1,4 +1,7 @@
 # CoRD
+
+[![Build Status](https://travis-ci.org/boxen/puppet-cord.png?branch=master)](https://travis-ci.org/boxen/puppet-cord)
+
 [CoRD](http://cord.sourceforge.net/) is a Windows Remote Desktop Client for the Mac.
 
 ## Usage
